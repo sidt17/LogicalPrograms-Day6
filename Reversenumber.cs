@@ -8,7 +8,7 @@ namespace LogicalPrograms
 {
     public class Reversenumber
     {
-        public static void reverse_number()
+        public static void revnumber()
         {
             int n, reverse = 0, rem;
             Console.WriteLine("Enter the number");
